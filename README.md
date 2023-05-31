@@ -1,4 +1,4 @@
-<h1> - Hi, I’m @ThallysAsafe <h1>
+<h1> - Hi, I’m @ThallysAsafe </h1>
 <br>
 - I’m currently learning HTML, CSS. 
   <br>
