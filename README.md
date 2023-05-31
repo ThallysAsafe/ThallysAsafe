@@ -1,5 +1,7 @@
 <h1> - Hi, I’m @ThallysAsafe <h1>
-- I’m currently learning HTML, CSS.
+<br>
+- I’m currently learning HTML, CSS. 
+  <br>
 - Computer Science 1/8 - UFAL⚛️
 
 
