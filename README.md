@@ -1,4 +1,4 @@
-## Hi, I’m @ThallysAsafe
+## Hi, I’m Thallys Asafe
 
 - I’m currently learning HTML, CSS.  
 - Computer Science 1/8 - UFAL⚛️
