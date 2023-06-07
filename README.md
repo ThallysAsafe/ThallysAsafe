@@ -1,6 +1,6 @@
 ## Hi, I’m Thallys Asafe
 
-- I’m currently learning HTML, CSS.  
+- I’m currently learning HTML, CSS, PYTHON.  
 - Computer Science 1/8 - UFAL⚛️
 - I'm Brazilian, AL <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="brazilemoji" width="21.5">
 
