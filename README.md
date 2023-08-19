@@ -16,7 +16,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png">
-  <img align="center" alt="RUBY" height="40" width="40" src="https://images.freeimages.com/fic/images/icons/899/ruby_programming/512/ruby.png">
+  <img align="center" alt="RUBY" height="30" width="35" src="https://images.viblo.asia/8c57d914-3cd2-4f55-b237-a4a6de765fc6.png">
 </div>
 
 <!---
